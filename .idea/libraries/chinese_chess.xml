@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="chinese_chess">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/chinese_chess.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
